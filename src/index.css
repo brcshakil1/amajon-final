@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+nav a.active {
+ background: #1c57d64d;
+}
